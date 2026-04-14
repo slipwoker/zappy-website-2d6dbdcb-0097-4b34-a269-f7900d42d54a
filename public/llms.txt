@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות מוצרי קונדיטוריה מקוונת עם עוגות, מאפים ועוד. הזמינו קינוחים מושלמים שיתמוגגו בפה, ישירות לביתכם. טעם שלא תשכחו!
+
+### אירועים
+https://example.com/occasions
+קונדיטוריה פרמיום לאירועים שתשאיר את האורחים המומים. עוגות חגיגיות, מגשי מתוקים ומאפים מרהיבים לכל מועד מיוחד. הזמינו עכשיו!
+
+### אודות
+https://example.com/about
+פרננדו ויסמן הוא קונדיטור מוביל עם תשוקה אמיתית למוצרי קונדיטוריה בריאותיים ואיכותיים. גלו את הפילוסופיה, המומחיות והאהבה שנמצאים בכל יצירה.
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין ממגוון מוצרי הקונדיטוריה שלנו או לשאול שאלה? צרו קשר עכשיו ונשמח לעזור לכם לבחור את הקינוח המושלם לכל רגע מתוק.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Fernando Vaisman Pastry Chef
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Fernando Vaisman Pastry Chef
+
+### Category
+https://example.com/category/:slug
+מוצרים - Fernando Vaisman Pastry Chef
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
